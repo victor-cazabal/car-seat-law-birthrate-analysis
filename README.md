@@ -1,4 +1,5 @@
-# car-seat-law-birthrate-analysis
+# Car Seats as Contraception: Replication Study
+
 **Reproducing and evaluating the “Car Seats as Contraception” OLS‑based analysis on U.S. birth rates**
 
 ---
