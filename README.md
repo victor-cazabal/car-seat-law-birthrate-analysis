@@ -27,11 +27,11 @@ The original study claims that stricter car‑seat laws—by raising the visible
 
 ## Repository Structure
 
-├── slides/ # Keynote slides (exported PDF)
-├── data/ # Scripts for downloading & cleaning raw ACS PUMS
-├── analysis.R # Main R script: data wrangling, panel creation, modeling
-├── results/ # Exported model summaries & key figures
-└── README.md # (this file)
+- **slides/** &ndash; Keynote slides (exported PDF)  
+- **data/** &ndash; Scripts for downloading & cleaning raw ACS PUMS  
+- **analysis.R** &ndash; Main R script: data wrangling, panel creation, modeling  
+- **results/** &ndash; Exported model summaries & key figures  
+- **README.md** &ndash; (this file) 
 
 ---
 
